@@ -1,2 +1,2 @@
 # demo1
-learning
+This is for learning purpose only
